@@ -22,26 +22,20 @@ The raw dataset contained:
 - No indexing for performance  
 - No proper data type enforcement  
 
-🔄 Data Preparation & Modeling
+🔄 Data Preparation & Modeling  
+✔ Created separate raw and cleaned tables  
+✔ Converted TEXT fields into proper numeric data types  
+✔ Replaced “unknown” values with NULL  
+✔ Transformed yes/no fields into BOOLEAN  
+✔ Added indexes for performance optimization  
+✔ Built reusable reporting VIEW  
 
-✔ Created separate raw and cleaned tables
-✔ Converted TEXT fields into proper numeric data types
-✔ Replaced “unknown” values with NULL
-✔ Transformed yes/no fields into BOOLEAN
-✔ Added indexes for performance optimization
-✔ Built reusable reporting VIEW
-
-📊 Analysis Performed
-
-Segment-wise conversion rate analysis
-
-Campaign effectiveness evaluation
-
-Contact frequency vs success rate
-
-Economic indicators impact (Euribor rate)
-
-Customer segmentation using CTEs & RANK()
+📊 Analysis Performed  
+- Segment-wise conversion rate analysis  
+- Campaign effectiveness evaluation  
+- Contact frequency vs success rate  
+- Economic indicators impact (Euribor rate)  
+- Customer segmentation using CTEs & RANK()  
 
 🚀 Performance Optimization
 
