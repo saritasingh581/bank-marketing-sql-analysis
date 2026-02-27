@@ -37,47 +37,36 @@ The raw dataset contained:
 - Economic indicators impact (Euribor rate)  
 - Customer segmentation using CTEs & RANK()  
 
-🚀 Performance Optimization    
+🚀 Performance Optimization        
 - Created indexes on high-filter columns  
 - Compared execution plans using EXPLAIN ANALYZE  
 - Observed Bitmap Heap Scan improvements  
 
-🔎 Key Business Insights  
+🔎 Key Business Insights    
 - Students showed one of the highest conversion rates  
 - Longer call duration increased subscription probability  
 - Fewer campaign contacts improved success rates  
 - Economic indicators influenced customer behavior  
 
-📸 Sample Outputs
+📸 Sample Outputs  
+- Segment-wise conversion analysis  
+- Query optimization plan (Bitmap Heap Scan via EXPLAIN ANALYZE)  
 
-Segment-wise conversion analysis
+📂 Repository Structure  
+/data-cleaning.sql  
+/analysis-queries.sql  
+/optimization.sql  
+/views.sql  
+/README.md  
 
-Query optimization plan (Bitmap Heap Scan via EXPLAIN ANALYZE)
+💡 What This Project Demonstrates  
+- Strong SQL fundamentals  
+- Data cleaning & normalization skills  
+- Business-oriented analytical thinking  
+- Query performance optimization  
+- Structured database design approach  
 
-📂 Repository Structure
-/data-cleaning.sql
-/analysis-queries.sql
-/optimization.sql
-/views.sql
-/README.md
+🔗 Author  
+Sarita Singh  
+Aspiring Data Analyst | SQL | PostgreSQL  
 
-💡 What This Project Demonstrates
-
-Strong SQL fundamentals
-
-Data cleaning & normalization skills
-
-Business-oriented analytical thinking
-
-Query performance optimization
-
-Structured database design approach
-
-🔗 Author
-
-Sarita Singh
-Aspiring Data Analyst | SQL | PostgreSQL
-
-Your Name
-Aspiring Data Analyst
-Open to collaboration and opportunities
