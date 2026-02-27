@@ -53,11 +53,14 @@ The raw dataset contained:
 - Query optimization plan (Bitmap Heap Scan via EXPLAIN ANALYZE)  
 
 📂 Repository Structure  
-/data-cleaning.sql  
-/analysis-queries.sql  
-/optimization.sql  
-/views.sql  
-/README.md  
+```
+ /data-cleaning.sql
+/analysis-queries.sql
+/optimization.sql
+/views.sql
+/README.md
+```
+
 
 💡 What This Project Demonstrates  
 - Strong SQL fundamentals  
