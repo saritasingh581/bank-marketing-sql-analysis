@@ -37,16 +37,12 @@ The raw dataset contained:
 - Economic indicators impact (Euribor rate)  
 - Customer segmentation using CTEs & RANK()  
 
-🚀 Performance Optimization  
+🚀 Performance Optimization    
+- Created indexes on high-filter columns  
+- Compared execution plans using EXPLAIN ANALYZE  
+- Observed Bitmap Heap Scan improvements  
 
-Created indexes on high-filter columns
-
-Compared execution plans using EXPLAIN ANALYZE
-
-Observed Bitmap Heap Scan improvements
-
-🔎 Key Business Insights
-
+🔎 Key Business Insights  
 - Students showed one of the highest conversion rates  
 - Longer call duration increased subscription probability  
 - Fewer campaign contacts improved success rates  
